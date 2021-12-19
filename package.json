@@ -1,6 +1,6 @@
 {
 
-  "name": "Socket.io Chat",
+  "name": "socket_io_chat",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
